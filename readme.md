@@ -4,4 +4,4 @@ Write a function that determines whether or not three lengths can form a triangl
 
 👇👇👇🤙
 
-[![Run on Repl.it](https://repl.it/badge/github/isennkubilay/s_it_a-_Valid_Triangle-)](https://repl.it/github/isennkubilay/s_it_a-_Valid_Triangle-)
+[![Run on Repl.it](https://repl.it/badge/github/isennkubilay/Is_it_a_Valid_Triangle)](https://repl.it/github/isennkubilay/Is_it_a_Valid_Triangle)
